@@ -1,0 +1,16 @@
+.idea/
+*.iml
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+docker-compose.override.yml
+
+
+Dockerfile
+docker-compose.yml
+
+base/data/logs/*.log
+
+base/resources/token.env

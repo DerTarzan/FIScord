@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  discord-bot:
+    build: .
+    container_name: fiscord-bot
+    restart: unless-stopped
+    volumes:
+      - .:/base
