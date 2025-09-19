@@ -1,8 +1,4 @@
 # FIScord
-
-FIScord ist ein Discord-Bot, speziell entwickelt für Fachinformatiker\*innen. Er unterstützt bei Community-Interaktionen, bietet nützliche Befehle für Schul- und Projektarbeit und kann leicht erweitert werden.
-
----
 ## 🛠 Installation
 
 ### Voraussetzungen
